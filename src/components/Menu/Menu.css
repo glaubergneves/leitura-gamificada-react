@@ -1,0 +1,35 @@
+.topbar {
+    background-color: #333; 
+    color: #fff;
+    padding: 10px 20px; 
+  }
+  
+  .topbar-inner {
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+  
+  .topbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .topbar ul li {
+    display: inline-block; 
+    margin-right: 20px;
+  }
+  
+  .topbar ul li:last-child {
+    margin-right: 0; 
+  }
+  
+  .topbar ul li a {
+    color: #fff; 
+    text-decoration: none;
+  }
+  
+  .topbar ul li a:hover {
+    text-decoration: underline; 
+  }
+  

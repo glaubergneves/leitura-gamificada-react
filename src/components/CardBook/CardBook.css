@@ -1,0 +1,19 @@
+.card-book {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.card-book img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-book h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.card-book p {
+  margin-bottom: 10px;
+}
